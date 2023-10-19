@@ -30,6 +30,20 @@
 Чтобы вставить изображение в текст, достаточно написать следующее:
 ![Привет, это картинка!](Picture.jpg)
 
-## Другие возможности
+## Команды для работы с Git
 
-На следующем занятии мы изучим синтаксис, позволяющий использовать ссылки, таблицы и цитаты.
+* git init
+* git status
+* git add
+* git commit
+* git log
+* git checkout
+* git diff
+* git config --global user.name "Имя"
+* git config --global user.email "Почта"
+* git branch
+* git merge
+* git push
+* git pull
+
+
